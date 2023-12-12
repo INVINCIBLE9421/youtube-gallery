@@ -1,3 +1,7 @@
+This is how the page looks:
+![image](https://github.com/INVINCIBLE9421/youtube-gallery/assets/109572056/69f43394-6002-4aa9-9b17-c8c109d3a3e0)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
